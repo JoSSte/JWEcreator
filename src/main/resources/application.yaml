@@ -1,0 +1,4 @@
+keystore:
+  path: keystore.p12
+  password: changeit
+  alias: mykey
